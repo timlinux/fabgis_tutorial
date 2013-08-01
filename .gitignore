@@ -1,0 +1,6 @@
+.vagrant/
+Vagrantfile~
+blue-marble-topo-jan.mbtiles
+venv/
+*.*~
+*.pyc
